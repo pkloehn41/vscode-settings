@@ -5,7 +5,7 @@ Home Visual Studio Code settings
 - ESLint | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 - GitHub Actions
 - GitLens - Git supercharged
-- indent-rainbow
+- indent-rainbow | https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
 - Material Icon Theme
 - Monokai Vibrant
 - Prettier - Code formatter
