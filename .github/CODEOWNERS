@@ -1,1 +1,4 @@
+# See https://help.github.com/en/articles/about-code-owners
 
+# These owners will be the default owners of everything in the repo.
+*       @pkloehn41 
