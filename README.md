@@ -2,7 +2,7 @@
 
 Home Visual Studio Code settings
 - Document This | https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis
-- ESLint
+- ESLint | https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 - GitHub Actions
 - GitLens - Git supercharged
 - indent-rainbow
