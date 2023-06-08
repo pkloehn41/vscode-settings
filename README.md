@@ -1,7 +1,7 @@
 # vscode-settings
 
 Home Visual Studio Code settings
-- Document This
+- Document This https://marketplace.visualstudio.com/items?itemName=oouo-diogo-perdigao.docthis
 - ESLint
 - GitHub Actions
 - GitLens - Git supercharged
