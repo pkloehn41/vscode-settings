@@ -6,7 +6,7 @@ Home Visual Studio Code settings
 - GitHub Actions
 - GitLens - Git supercharged
 - indent-rainbow | https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
-- Material Icon Theme
+- Material Icon Theme | https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 - Monokai Vibrant
 - Prettier - Code formatter
 - Pylance
